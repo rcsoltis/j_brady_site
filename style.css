@@ -1,0 +1,108 @@
+/*
+ Theme Name:   Pleasant Lite Child
+ Template:     pleasant-lite
+ Text Domain:  pleasant-lite-child
+*/
+
+h2 {
+		font-size: 4em;
+		margin-bottom: 2em;
+		margin-top: 1.5em;
+    text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+label {
+	color: #4B4A4A;
+}
+
+p {
+	font-size: 1.5em;
+	letter-spacing: 1px;
+}
+input,
+textarea {
+	background-color: lightblue;
+}
+
+textarea {
+    height: 75px;
+}
+
+.logo img {
+	margin-top: 1em;
+	width: 75%;
+}
+
+.menu-item {
+	font-size: 2em;
+}
+
+.oxilab-flip-box-back-1-data .oxilab-button-data {
+	background-color: red;
+}
+ 
+.page-id-28,
+.page-id-28 h1 {
+	background-color: #E32B24;
+	color: white;
+}
+
+.page-id-30, 
+.page-id-30 h1 {
+	background-color: #007BC2;
+	color: white;
+}
+
+.page-id-32, 
+.page-id-32 h1 {
+	background-color: #3D9970;
+	color: white;
+}
+
+.page-id-35, 
+.page-id-35 h1 {
+	background-color: #CC860C;
+	color: white;
+}
+
+.toggle a {
+	background-color: #ffffff;
+}
+
+.widget-column-1,
+.widget-column-2 {
+	width: 49%;
+	margin: 0;
+}
+.wp-image-6 {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 50%;
+}
+
+#footer-wrapper {
+	background-color: white;
+	color: #4B4A4A;
+}
+
+#menu-social-media-icon-menu {
+	font-size: .5em;
+	margin-top: 10em;
+	text-align: center;
+}
+
+#menu-social-media-icon-menu li {
+	display: inline;	
+}
+
+#text-4 p {
+	text-align: center;
+	color: #4B4A4A;
+}
+
+
